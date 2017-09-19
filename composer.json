@@ -1,0 +1,28 @@
+{
+  "name": "neal.yip/laravel-throttle-request-exception",
+  "description": "Throw exception instead of direct output",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "neal.yip",
+      "email": "neal.yip@webssup.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6",
+    "illuminate/routing": "~5.4.0",
+    "illuminate/cache": "~5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nealyip\\LaravelThrottleRequestException\\": "src"
+    },
+    "files": [
+    ]
+  },
+  "autoload-dev": {
+    "psr-4": {
+    }
+  }
+}
