@@ -1,5 +1,5 @@
 {
-  "name": "neal.yip/laravel-throttle-request-exception",
+  "name": "nealyip/laravel-throttle-request-exception",
   "description": "Throw exception instead of direct output",
   "license": "MIT",
   "authors": [
